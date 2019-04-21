@@ -26,10 +26,10 @@
 ### 怎么做ARTS
 [如何有效的践行ARTS](https://mp.weixin.qq.com/s/1WrG1qt0rnN9Zqwh60SPig)
 [知乎原帖](https://www.zhihu.com/question/301150832)
-1. Algorithm：**每周至少做一个 leetcode 的算法题。**主要是为了编程训练和学习。每周至少做一个 leetcode 的算法题（先从Easy开始，然后再Medium，最后才Hard）。进行编程训练，如果不训练我看再多的算法书，我依然不会做算法题，看完书后，我需要训练。关于做Leetcode的的优势，你可以看一下我在coolshell上的文章 [Leetcode 编程训练 - 酷 壳 - CoolShell。](https://link.zhihu.com/?target=https%3A//coolshell.cn/articles/12052.html)
-2. Review：**阅读并点评至少一篇英文技术文章。**主要是为了学习英文，如果我的英文不行，我基本上无缘技术高手。所以，需要我阅读并点评至少一篇英文技术文章，我个人最喜欢去的地方是http://Medium.com 以及各个公司的技术blog，如Netflix的。
-3. Tip：**学习至少一个技术技巧。**主要是为了总结和归纳我在是常工作中所遇到的知识点。学习至少一个技术技巧。我在工作中遇到的问题，踩过的坑，学习的点滴知识。
-4. Share：**分享一篇有观点和思考的技术文章。**主要是为了建立我的影响力，能够输出价值观。分享一篇有观点和思考的技术文章。
+1. Algorithm：**每周至少做一个 leetcode 的算法题。** 主要是为了编程训练和学习。每周至少做一个 leetcode 的算法题（先从Easy开始，然后再Medium，最后才Hard）。进行编程训练，如果不训练我看再多的算法书，我依然不会做算法题，看完书后，我需要训练。关于做Leetcode的的优势，你可以看一下我在coolshell上的文章 [Leetcode 编程训练 - 酷 壳 - CoolShell。](https://link.zhihu.com/?target=https%3A//coolshell.cn/articles/12052.html)
+2. Review：**阅读并点评至少一篇英文技术文章。** 主要是为了学习英文，如果我的英文不行，我基本上无缘技术高手。所以，需要我阅读并点评至少一篇英文技术文章，我个人最喜欢去的地方是http://Medium.com 以及各个公司的技术blog，如Netflix的。
+3. Tip：**学习至少一个技术技巧。** 主要是为了总结和归纳我在是常工作中所遇到的知识点。学习至少一个技术技巧。我在工作中遇到的问题，踩过的坑，学习的点滴知识。
+4. Share：**分享一篇有观点和思考的技术文章。** 主要是为了建立我的影响力，能够输出价值观。分享一篇有观点和思考的技术文章。
 这就是ARTS的全部动机和我所需要做的
 
 
