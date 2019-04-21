@@ -75,6 +75,7 @@ class Solution:
 ### 投机取巧 / 包装函数
 `return int(x ** 0.5)`
 `math.sqrt()`
+
 <br/>
 
 ## 技术技巧(Tip)
