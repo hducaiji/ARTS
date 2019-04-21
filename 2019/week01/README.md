@@ -107,7 +107,7 @@ if ($stmt = mysqli_prepare($conn, $query)) {
     if (mysqli_stmt_num_rows($stmt) > 0) { //***
         ...
     } else {...}
-	  mysqli_stmt_close($stmt);
+    mysqli_stmt_close($stmt);
     exit();
 }
 ```
